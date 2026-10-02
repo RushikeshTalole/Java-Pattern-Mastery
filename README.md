@@ -2,7 +2,7 @@
 
 
 
-\### 30 Days of Java Pattern Printing
+\## 30 Days of Java Pattern Printing
 
 
 
@@ -216,15 +216,17 @@ For each pattern:
 
 
 
-\*\*Basic:\*\* 0 / 10
+| Category     | Completed |  Total |
 
-\*\*Intermediate:\*\* 0 / 10
+| ------------ | --------: | -----: |
 
-\*\*Advanced:\*\* 0 / 10
+| Basic        |         0 |     10 |
 
+| Intermediate |         0 |     10 |
 
+| Advanced     |         0 |     10 |
 
-\*\*Total:\*\* 0 / 30
+| \*\*Total\*\*    |     \*\*0\*\* | \*\*30\*\* |
 
 
 
