@@ -2,127 +2,135 @@
 
 
 
-\## 30 Days of Java Pattern Printing
+\### 30 Days of Java Pattern Printing
 
 
 
-This repository contains my 30 days of Java pattern printing practice. The main purpose of this project is to improve my logical thinking, problem-solving skills, and understanding of nested loops.
+A daily Java coding practice project focused on \*\*pattern printing, nested loops, logical thinking, and problem-solving skills\*\*.
 
 
 
-I will solve one pattern every day, starting from basic patterns and gradually moving towards advanced patterns.
+\---
 
 
 
-\## Learning Objectives
+\## Learning Goals
 
 
 
-\* Understand nested loops.
+\* Understand nested loops
 
-\* Improve logical thinking and problem-solving skills.
+\* Improve logical thinking
 
-\* Understand rows, columns, and spaces.
+\* Strengthen Java fundamentals
 
-\* Practice star, number, and alphabet patterns.
+\* Practice rows, columns, spaces, and patterns
 
-\* Develop strong programming fundamentals.
+\* Improve problem-solving skills
 
-\* Prepare for Java coding interviews.
+\* Build coding confidence for interviews
 
 
 
-\## 30 Days Pattern Printing Roadmap
+\---
 
 
 
-\### Part 1: Basic Patterns (Day 1–10)
+\## 30 Days Roadmap
 
 
 
-| Day    | Pattern Name                   | Status  |
+\### Basic Patterns — Day 01 to Day 10
 
-| ------ | ------------------------------ | ------- |
 
-| Day 01 | Solid Square Pattern           | Pending |
 
-| Day 02 | Right-Angled Triangle          | Pending |
+| Day | Pattern                        | Status  |
 
-| Day 03 | Inverted Right-Angled Triangle | Pending |
+| --- | ------------------------------ | ------- |
 
-| Day 04 | Number Triangle                | Pending |
+| 01  | Solid Square                   | Pending |
 
-| Day 05 | Same Number Triangle           | Pending |
+| 02  | Right-Angled Triangle          | Pending |
 
-| Day 06 | Inverted Number Triangle       | Pending |
+| 03  | Inverted Right-Angled Triangle | Pending |
 
-| Day 07 | Row Number Pattern             | Pending |
+| 04  | Number Triangle                | Pending |
 
-| Day 08 | Column Number Pattern          | Pending |
+| 05  | Same Number Triangle           | Pending |
 
-| Day 09 | Alphabet Triangle              | Pending |
+| 06  | Inverted Number Triangle       | Pending |
 
-| Day 10 | Inverted Alphabet Triangle     | Pending |
+| 07  | Row Number Pattern             | Pending |
 
+| 08  | Column Number Pattern          | Pending |
 
+| 09  | Alphabet Triangle              | Pending |
 
-\### Part 2: Intermediate Patterns (Day 11–20)
+| 10  | Inverted Alphabet Triangle     | Pending |
 
 
 
-| Day    | Pattern Name                    | Status  |
+\### Intermediate Patterns — Day 11 to Day 20
 
-| ------ | ------------------------------- | ------- |
 
-| Day 11 | Right-Aligned Triangle          | Pending |
 
-| Day 12 | Inverted Right-Aligned Triangle | Pending |
+| Day | Pattern                         | Status  |
 
-| Day 13 | Pyramid Pattern                 | Pending |
+| --- | ------------------------------- | ------- |
 
-| Day 14 | Inverted Pyramid                | Pending |
+| 11  | Right-Aligned Triangle          | Pending |
 
-| Day 15 | Number Pyramid                  | Pending |
+| 12  | Inverted Right-Aligned Triangle | Pending |
 
-| Day 16 | Inverted Number Pyramid         | Pending |
+| 13  | Pyramid                         | Pending |
 
-| Day 17 | Floyd's Triangle                | Pending |
+| 14  | Inverted Pyramid                | Pending |
 
-| Day 18 | 0-1 Binary Triangle             | Pending |
+| 15  | Number Pyramid                  | Pending |
 
-| Day 19 | Continuous Number Pyramid       | Pending |
+| 16  | Inverted Number Pyramid         | Pending |
 
-| Day 20 | Hollow Square Pattern           | Pending |
+| 17  | Floyd's Triangle                | Pending |
 
+| 18  | 0-1 Binary Triangle             | Pending |
 
+| 19  | Continuous Number Pyramid       | Pending |
 
-\### Part 3: Advanced Patterns (Day 21–30)
+| 20  | Hollow Square                   | Pending |
 
 
 
-| Day    | Pattern Name              | Status  |
+\### Advanced Patterns — Day 21 to Day 30
 
-| ------ | ------------------------- | ------- |
 
-| Day 21 | Hollow Right Triangle     | Pending |
 
-| Day 22 | Hollow Pyramid            | Pending |
+| Day | Pattern                   | Status  |
 
-| Day 23 | Hollow Inverted Pyramid   | Pending |
+| --- | ------------------------- | ------- |
 
-| Day 24 | Diamond Pattern           | Pending |
+| 21  | Hollow Right Triangle     | Pending |
 
-| Day 25 | Hollow Diamond            | Pending |
+| 22  | Hollow Pyramid            | Pending |
 
-| Day 26 | Butterfly Pattern         | Pending |
+| 23  | Hollow Inverted Pyramid   | Pending |
 
-| Day 27 | Number Diamond            | Pending |
+| 24  | Diamond                   | Pending |
 
-| Day 28 | Palindrome Number Pyramid | Pending |
+| 25  | Hollow Diamond            | Pending |
 
-| Day 29 | Pascal's Triangle         | Pending |
+| 26  | Butterfly                 | Pending |
 
-| Day 30 | Mixed Pattern Challenge   | Pending |
+| 27  | Number Diamond            | Pending |
+
+| 28  | Palindrome Number Pyramid | Pending |
+
+| 29  | Pascal's Triangle         | Pending |
+
+| 30  | Mixed Pattern Challenge   | Pending |
+
+
+
+\---
 
 
 
@@ -134,27 +142,31 @@ I will solve one pattern every day, starting from basic patterns and gradually m
 
 Java-Pattern-Mastery/
 
-|
+│
 
-|-- README.md
+├── README.md
 
-|
+│
 
-|-- src/
+└── src/
 
-&#x20;   |-- PatternDay01.java
+&#x20;   ├── PatternDay01.java
 
-&#x20;   |-- PatternDay02.java
+&#x20;   ├── PatternDay02.java
 
-&#x20;   |-- PatternDay03.java
+&#x20;   ├── PatternDay03.java
 
-&#x20;   |-- ...
+&#x20;   └── ...
 
 ```
 
 
 
-\## Technologies Used
+\---
+
+
+
+\## Technologies
 
 
 
@@ -168,53 +180,71 @@ Java-Pattern-Mastery/
 
 
 
-\## Daily Practice Approach
+\---
 
 
 
-For every pattern, I will:
+\## Practice Approach
 
 
 
-1\. Understand the pattern output.
-
-2\. Identify rows and columns.
-
-3\. Write the Java code independently.
-
-4\. Execute and verify the output.
-
-5\. Perform a step-by-step dry run.
-
-6\. Understand the logic behind nested loops.
-
-7\. Practice important interview concepts.
+For each pattern:
 
 
 
-\## Progress Tracker
+1\. Understand the required output
+
+2\. Identify rows and columns
+
+3\. Write the logic
+
+4\. Implement the Java code
+
+5\. Dry run the code
+
+6\. Verify the output
+
+7\. Update the progress status
 
 
 
-| Category              | Completed | Total |
-
-| --------------------- | --------- | ----- |
-
-| Basic Patterns        | 0         | 10    |
-
-| Intermediate Patterns | 0         | 10    |
-
-| Advanced Patterns     | 0         | 10    |
-
-| Total                 | 0         | 30    |
+\---
 
 
 
-\## Conclusion
+\## Progress
 
 
 
-This project is part of my Java learning journey. Through daily practice, I aim to improve my coding skills, build logical thinking, and gain confidence in solving programming problems.
+\*\*Basic:\*\* 0 / 10
+
+\*\*Intermediate:\*\* 0 / 10
+
+\*\*Advanced:\*\* 0 / 10
+
+
+
+\*\*Total:\*\* 0 / 30
+
+
+
+\---
+
+
+
+\## Goal
+
+
+
+Complete \*\*30 Java patterns in 30 days\*\* and build a strong foundation in loops, logic, and problem-solving.
+
+
+
+\---
+
+
+
+\*This repository is part of my Java learning and coding practice journey.\*
 
 
 
