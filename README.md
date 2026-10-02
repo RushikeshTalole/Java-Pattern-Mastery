@@ -1,8 +1,8 @@
-\# Java Pattern Mastery
+# Java Pattern Mastery
 
 
 
-\## 30 Days of Java Pattern Printing
+## 30 Days of Java Pattern Printing
 
 
 
@@ -10,37 +10,37 @@ A daily Java coding practice project focused on \*\*pattern printing, nested loo
 
 
 
-\---
+---
 
 
 
-\## Learning Goals
+## Learning Goals
 
 
 
-\* Understand nested loops
+* Understand nested loops
 
-\* Improve logical thinking
+* Improve logical thinking
 
-\* Strengthen Java fundamentals
+* Strengthen Java fundamentals
 
-\* Practice rows, columns, spaces, and patterns
+* Practice rows, columns, spaces, and patterns
 
-\* Improve problem-solving skills
+* Improve problem-solving skills
 
-\* Build coding confidence for interviews
-
-
-
-\---
+* Build coding confidence for interviews
 
 
 
-\## 30 Days Roadmap
+---
 
 
 
-\### Basic Patterns — Day 01 to Day 10
+## 30 Days Roadmap
+
+
+
+### Basic Patterns — Day 01 to Day 10
 
 
 
@@ -70,7 +70,7 @@ A daily Java coding practice project focused on \*\*pattern printing, nested loo
 
 
 
-\### Intermediate Patterns — Day 11 to Day 20
+### Intermediate Patterns — Day 11 to Day 20
 
 
 
@@ -100,7 +100,7 @@ A daily Java coding practice project focused on \*\*pattern printing, nested loo
 
 
 
-\### Advanced Patterns — Day 21 to Day 30
+### Advanced Patterns — Day 21 to Day 30
 
 
 
@@ -130,11 +130,11 @@ A daily Java coding practice project focused on \*\*pattern printing, nested loo
 
 
 
-\---
+---
 
 
 
-\## Project Structure
+## Project Structure
 
 
 
@@ -162,29 +162,29 @@ Java-Pattern-Mastery/
 
 
 
-\---
+---
 
 
 
-\## Technologies
+## Technologies
 
 
 
-\* Java
+* Java
 
-\* IntelliJ IDEA
+* IntelliJ IDEA
 
-\* Git
+* Git
 
-\* GitHub
-
-
-
-\---
+* GitHub
 
 
 
-\## Practice Approach
+---
+
+
+
+## Practice Approach
 
 
 
@@ -192,27 +192,27 @@ For each pattern:
 
 
 
-1\. Understand the required output
+1. Understand the required output
 
-2\. Identify rows and columns
+2. Identify rows and columns
 
-3\. Write the logic
+3. Write the logic
 
-4\. Implement the Java code
+4. Implement the Java code
 
-5\. Dry run the code
+5. Dry run the code
 
-6\. Verify the output
+6. Verify the output
 
-7\. Update the progress status
-
-
-
-\---
+7. Update the progress status
 
 
 
-\## Progress
+---
+
+
+
+## Progress
 
 
 
@@ -230,11 +230,11 @@ For each pattern:
 
 
 
-\---
+---
 
 
 
-\## Goal
+## Goal
 
 
 
@@ -242,11 +242,11 @@ Complete \*\*30 Java patterns in 30 days\*\* and build a strong foundation in lo
 
 
 
-\---
+---
 
 
 
-\*This repository is part of my Java learning and coding practice journey.\*
+*This repository is part of my Java learning and coding practice journey.\*
 
 
 
