@@ -28,9 +28,9 @@ This is a daily practice project where I solve one pattern every day and track m
 
 ### Day 01 - Day 10: Basic Patterns
 
-| Day | Pattern                        | Status  |
-| --- | ------------------------------ | ------- |
-| 01  | Solid Square                   | Pending |
+| Day | Pattern                        | Status |
+| --- | ------------------------------ |  |
+| 01  | Solid Square                   | Completed |
 | 02  | Right-Angled Triangle          | Pending |
 | 03  | Inverted Right-Angled Triangle | Pending |
 | 04  | Number Triangle                | Pending |
@@ -75,20 +75,21 @@ This is a daily practice project where I solve one pattern every day and track m
 
 ## Project Structure
 
-```text
 Java-Pattern-Mastery/
 │
 ├── README.md
-├── .gitignore
+│
+├── patterns/
+│   ├── Day01-Solid-Square.md
+│   ├── Day02-Right-Angled-Triangle.md
+│   ├── Day03-Inverted-Right-Angled-Triangle.md
+│   └── ...
 │
 └── src/
-    ├── PatternDay01.java
-    ├── PatternDay02.java
-    ├── PatternDay03.java
-    └── ...
-```
-
----
+├── PatternDay01.java
+├── PatternDay02.java
+├── PatternDay03.java
+└── ...
 
 ## Tools I Am Using
 
@@ -118,11 +119,11 @@ For every pattern, I will:
 ## My Progress
 
 | Section      | Completed |  Total |
-| ------------ | --------: | -----: |
-| Basic        |         0 |     10 |
+| ------------ |----------:| -----: |
+| Basic        |         1 |     10 |
 | Intermediate |         0 |     10 |
 | Advanced     |         0 |     10 |
-| **Total**    |     **0** | **30** |
+| **Total**    |     **1** | **30** |
 
 ---
 
