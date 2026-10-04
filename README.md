@@ -28,18 +28,18 @@ This is a daily practice project where I solve one pattern every day and track m
 
 ### Day 01 - Day 10: Basic Patterns
 
-| Day | Pattern                        | Status |
-| --- | ------------------------------ |  |
+| Day | Pattern                        | Status    |
+| --- | ------------------------------ | --------- |
 | 01  | Solid Square                   | Completed |
-| 02  | Right-Angled Triangle          | Pending |
-| 03  | Inverted Right-Angled Triangle | Pending |
-| 04  | Number Triangle                | Pending |
-| 05  | Same Number Triangle           | Pending |
-| 06  | Inverted Number Triangle       | Pending |
-| 07  | Row Number Pattern             | Pending |
-| 08  | Column Number Pattern          | Pending |
-| 09  | Alphabet Triangle              | Pending |
-| 10  | Inverted Alphabet Triangle     | Pending |
+| 02  | Right-Angled Triangle          | Pending   |
+| 03  | Inverted Right-Angled Triangle | Pending   |
+| 04  | Number Triangle                | Pending   |
+| 05  | Same Number Triangle           | Pending   |
+| 06  | Inverted Number Triangle       | Pending   |
+| 07  | Row Number Pattern             | Pending   |
+| 08  | Column Number Pattern          | Pending   |
+| 09  | Alphabet Triangle              | Pending   |
+| 10  | Inverted Alphabet Triangle     | Pending   |
 
 ### Day 11 - Day 20: Intermediate Patterns
 
@@ -75,9 +75,8 @@ This is a daily practice project where I solve one pattern every day and track m
 
 ## Project Structure
 
+```text
 Java-Pattern-Mastery/
-│
-├── README.md
 │
 ├── patterns/
 │   ├── Day01-Solid-Square.md
@@ -85,11 +84,17 @@ Java-Pattern-Mastery/
 │   ├── Day03-Inverted-Right-Angled-Triangle.md
 │   └── ...
 │
-└── src/
-├── PatternDay01.java
-├── PatternDay02.java
-├── PatternDay03.java
-└── ...
+├── src/
+│   ├── PatternDay01.java
+│   ├── PatternDay02.java
+│   ├── PatternDay03.java
+│   └── ...
+│
+├── .gitignore
+└── README.md
+```
+
+---
 
 ## Tools I Am Using
 
@@ -119,7 +124,7 @@ For every pattern, I will:
 ## My Progress
 
 | Section      | Completed |  Total |
-| ------------ |----------:| -----: |
+| ------------ | --------: | -----: |
 | Basic        |         1 |     10 |
 | Intermediate |         0 |     10 |
 | Advanced     |         0 |     10 |
