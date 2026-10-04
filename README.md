@@ -1,252 +1,135 @@
 # Java Pattern Mastery
 
-
-
 ## 30 Days of Java Pattern Printing
 
+I am practicing Java pattern printing for 30 days to improve my **Java basics, loops, logic, and problem-solving skills**.
 
-
-A daily Java coding practice project focused on \*\*pattern printing, nested loops, logical thinking, and problem-solving skills\*\*.
-
-
+This is a daily practice project where I solve one pattern every day and track my progress on GitHub.
 
 ---
 
+## What I Am Practicing
 
-
-## Learning Goals
-
-
-
-* Understand nested loops
-
-* Improve logical thinking
-
-* Strengthen Java fundamentals
-
-* Practice rows, columns, spaces, and patterns
-
-* Improve problem-solving skills
-
-* Build coding confidence for interviews
-
-
+* Java loops
+* Nested loops
+* Rows and columns
+* Spaces
+* Number patterns
+* Alphabet patterns
+* Pyramid patterns
+* Diamond patterns
+* Hollow patterns
+* Logical thinking
+* Problem-solving
 
 ---
-
-
 
 ## 30 Days Roadmap
 
-
-
-### Basic Patterns — Day 01 to Day 10
-
-
+### Day 01 - Day 10: Basic Patterns
 
 | Day | Pattern                        | Status  |
-
 | --- | ------------------------------ | ------- |
-
 | 01  | Solid Square                   | Pending |
-
 | 02  | Right-Angled Triangle          | Pending |
-
 | 03  | Inverted Right-Angled Triangle | Pending |
-
 | 04  | Number Triangle                | Pending |
-
 | 05  | Same Number Triangle           | Pending |
-
 | 06  | Inverted Number Triangle       | Pending |
-
 | 07  | Row Number Pattern             | Pending |
-
 | 08  | Column Number Pattern          | Pending |
-
 | 09  | Alphabet Triangle              | Pending |
-
 | 10  | Inverted Alphabet Triangle     | Pending |
 
-
-
-### Intermediate Patterns — Day 11 to Day 20
-
-
+### Day 11 - Day 20: Intermediate Patterns
 
 | Day | Pattern                         | Status  |
-
 | --- | ------------------------------- | ------- |
-
 | 11  | Right-Aligned Triangle          | Pending |
-
 | 12  | Inverted Right-Aligned Triangle | Pending |
-
 | 13  | Pyramid                         | Pending |
-
 | 14  | Inverted Pyramid                | Pending |
-
 | 15  | Number Pyramid                  | Pending |
-
 | 16  | Inverted Number Pyramid         | Pending |
-
 | 17  | Floyd's Triangle                | Pending |
-
 | 18  | 0-1 Binary Triangle             | Pending |
-
 | 19  | Continuous Number Pyramid       | Pending |
-
 | 20  | Hollow Square                   | Pending |
 
-
-
-### Advanced Patterns — Day 21 to Day 30
-
-
+### Day 21 - Day 30: Advanced Patterns
 
 | Day | Pattern                   | Status  |
-
 | --- | ------------------------- | ------- |
-
 | 21  | Hollow Right Triangle     | Pending |
-
 | 22  | Hollow Pyramid            | Pending |
-
 | 23  | Hollow Inverted Pyramid   | Pending |
-
 | 24  | Diamond                   | Pending |
-
 | 25  | Hollow Diamond            | Pending |
-
 | 26  | Butterfly                 | Pending |
-
 | 27  | Number Diamond            | Pending |
-
 | 28  | Palindrome Number Pyramid | Pending |
-
 | 29  | Pascal's Triangle         | Pending |
-
 | 30  | Mixed Pattern Challenge   | Pending |
 
-
-
 ---
-
-
 
 ## Project Structure
 
-
-
 ```text
-
 Java-Pattern-Mastery/
-
 │
-
 ├── README.md
-
+├── .gitignore
 │
-
 └── src/
-
-&#x20;   ├── PatternDay01.java
-
-&#x20;   ├── PatternDay02.java
-
-&#x20;   ├── PatternDay03.java
-
-&#x20;   └── ...
-
+    ├── PatternDay01.java
+    ├── PatternDay02.java
+    ├── PatternDay03.java
+    └── ...
 ```
 
-
-
 ---
 
-
-
-## Technologies
-
-
+## Tools I Am Using
 
 * Java
-
 * IntelliJ IDEA
-
 * Git
-
 * GitHub
 
+---
 
+## My Practice Method
+
+For every pattern, I will:
+
+1. Understand the pattern
+2. Find the number of rows
+3. Find the number of columns
+4. Write the logic
+5. Write the Java code
+6. Dry run the code
+7. Check the output
+8. Update the status here
+9. Push the code to GitHub
 
 ---
 
+## My Progress
 
-
-## Practice Approach
-
-
-
-For each pattern:
-
-
-
-1. Understand the required output
-
-2. Identify rows and columns
-
-3. Write the logic
-
-4. Implement the Java code
-
-5. Dry run the code
-
-6. Verify the output
-
-7. Update the progress status
-
-
-
----
-
-
-
-## Progress
-
-
-
-| Category     | Completed |  Total |
-
+| Section      | Completed |  Total |
 | ------------ | --------: | -----: |
-
 | Basic        |         0 |     10 |
-
 | Intermediate |         0 |     10 |
-
 | Advanced     |         0 |     10 |
-
-| \*\*Total\*\*    |     \*\*0\*\* | \*\*30\*\* |
-
-
+| **Total**    |     **0** | **30** |
 
 ---
 
+## My Goal
 
-
-## Goal
-
-
-
-Complete \*\*30 Java patterns in 30 days\*\* and build a strong foundation in loops, logic, and problem-solving.
-
-
+Complete **30 patterns in 30 days** and improve my Java coding logic step by step.
 
 ---
 
-
-
-*This repository is part of my Java learning and coding practice journey.\*
-
-
-
+This repository is part of my Java learning journey.
