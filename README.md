@@ -29,9 +29,9 @@ This is a daily practice project where I solve one pattern every day and track m
 ### Day 01 - Day 10: Basic Patterns
 
 | Day | Pattern                        | Status    |
-| --- | ------------------------------ | --------- |
+| --- | ------------------------------ |-----------|
 | 01  | Solid Square                   | Completed |
-| 02  | Right-Angled Triangle          | Pending   |
+| 02  | Right-Angled Triangle          | Completed |
 | 03  | Inverted Right-Angled Triangle | Pending   |
 | 04  | Number Triangle                | Pending   |
 | 05  | Same Number Triangle           | Pending   |
@@ -124,11 +124,11 @@ For every pattern, I will:
 ## My Progress
 
 | Section      | Completed |  Total |
-| ------------ | --------: | -----: |
-| Basic        |         1 |     10 |
+| ------------ |----------:| -----: |
+| Basic        |         2 |     10 |
 | Intermediate |         0 |     10 |
 | Advanced     |         0 |     10 |
-| **Total**    |     **1** | **30** |
+| **Total**    |     **2** | **30** |
 
 ---
 
