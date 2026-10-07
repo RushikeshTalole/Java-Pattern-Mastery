@@ -33,7 +33,7 @@ This is a daily practice project where I solve one pattern every day and track m
 | 01  | Solid Square                   | Completed |
 | 02  | Right-Angled Triangle          | Completed |
 | 03  | Inverted Right-Angled Triangle | Completed |
-| 04  | Number Triangle                | Pending   |
+| 04  | Number Triangle                | Completed |
 | 05  | Same Number Triangle           | Pending   |
 | 06  | Inverted Number Triangle       | Pending   |
 | 07  | Row Number Pattern             | Pending   |
@@ -125,10 +125,10 @@ For every pattern, I will:
 
 | Section      | Completed |  Total |
 | ------------ |----------:| -----: |
-| Basic        |         3 |     10 |
+| Basic        |         4 |     10 |
 | Intermediate |         0 |     10 |
 | Advanced     |         0 |     10 |
-| **Total**    |     **3** | **30** |
+| **Total**    |     **4** | **30** |
 
 ---
 
