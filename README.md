@@ -37,7 +37,7 @@ This is a daily practice project where I solve one pattern every day and track m
 | 05  | Same Number Triangle           | Completed |
 | 06  | Inverted Number Triangle       | Completed |
 | 07  | Row Number Pattern             | Completed |
-| 08  | Column Number Pattern          | Pending   |
+| 08  | Column Number Pattern          | Completed |
 | 09  | Alphabet Triangle              | Pending   |
 | 10  | Inverted Alphabet Triangle     | Pending   |
 
@@ -125,7 +125,7 @@ For every pattern, I will:
 
 | Section      | Completed |  Total |
 | ------------ |----------:| -----: |
-| Basic        |         7 |     10 |
+| Basic        |         8 |     10 |
 | Intermediate |         0 |     10 |
 | Advanced     |         0 |     10 |
 | **Total**    |     **7** | **30** |
