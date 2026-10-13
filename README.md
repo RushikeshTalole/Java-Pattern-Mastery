@@ -39,7 +39,7 @@ This is a daily practice project where I solve one pattern every day and track m
 | 07  | Row Number Pattern             | Completed |
 | 08  | Column Number Pattern          | Completed |
 | 09  | Alphabet Triangle              | Completed |
-| 10  | Inverted Alphabet Triangle     | Pending   |
+| 10  | Inverted Alphabet Triangle     | Completed |
 
 ### Day 11 - Day 20: Intermediate Patterns
 
@@ -125,10 +125,10 @@ For every pattern, I will:
 
 | Section      | Completed |  Total |
 | ------------ |----------:| -----: |
-| Basic        |         9 |     10 |
+| Basic        |        10 |     10 |
 | Intermediate |         0 |     10 |
 | Advanced     |         0 |     10 |
-| **Total**    |     **9** | **30** |
+| **Total**    |    **10** | **30** |
 
 ---
 
