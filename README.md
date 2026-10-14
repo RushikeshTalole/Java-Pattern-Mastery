@@ -43,9 +43,9 @@ This is a daily practice project where I solve one pattern every day and track m
 
 ### Day 11 - Day 20: Intermediate Patterns
 
-| Day | Pattern                         | Status  |
-| --- | ------------------------------- | ------- |
-| 11  | Right-Aligned Triangle          | Pending |
+| Day | Pattern                         | Status |
+| --- | ------------------------------- |  |
+| 11  | Right-Aligned Triangle          | Completed |
 | 12  | Inverted Right-Aligned Triangle | Pending |
 | 13  | Pyramid                         | Pending |
 | 14  | Inverted Pyramid                | Pending |
@@ -126,9 +126,9 @@ For every pattern, I will:
 | Section      | Completed |  Total |
 | ------------ |----------:| -----: |
 | Basic        |        10 |     10 |
-| Intermediate |         0 |     10 |
+| Intermediate |         1 |     10 |
 | Advanced     |         0 |     10 |
-| **Total**    |    **10** | **30** |
+| **Total**    |    **11** | **30** |
 
 ---
 
