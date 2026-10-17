@@ -47,7 +47,7 @@ This is a daily practice project where I solve one pattern every day and track m
 | --- | ------------------------------- |  |
 | 11  | Right-Aligned Triangle          | Completed |
 | 12  | Inverted Right-Aligned Triangle | Completed |
-| 13  | Pyramid                         | Pending |
+| 13  | Pyramid                         | Completed |
 | 14  | Inverted Pyramid                | Pending |
 | 15  | Number Pyramid                  | Pending |
 | 16  | Inverted Number Pyramid         | Pending |
@@ -126,7 +126,7 @@ For every pattern, I will:
 | Section      | Completed |  Total |
 | ------------ |----------:| -----: |
 | Basic        |        10 |     10 |
-| Intermediate |         2 |     10 |
+| Intermediate |         3 |     10 |
 | Advanced     |         0 |     10 |
 | **Total**    |    **12** | **30** |
 
