@@ -43,18 +43,18 @@ This is a daily practice project where I solve one pattern every day and track m
 
 ### Day 11 - Day 20: Intermediate Patterns
 
-| Day | Pattern | Status |
-| --- | --- | --- |
+| Day | Pattern | Status    |
+| --- | --- |-----------|
 | 11 | Right-Aligned Triangle | Completed |
 | 12 | Inverted Right-Aligned Triangle | Completed |
 | 13 | Pyramid | Completed |
 | 14 | Inverted Pyramid | Completed |
-| 15 | Number Pyramid | Pending |
-| 16 | Inverted Number Pyramid | Pending |
-| 17 | Floyd's Triangle | Pending |
-| 18 | 0-1 Binary Triangle | Pending |
-| 19 | Continuous Number Pyramid | Pending |
-| 20 | Hollow Square | Pending |
+| 15 | Number Pyramid | Completed |
+| 16 | Inverted Number Pyramid | Completed |
+| 17 | Floyd's Triangle | Pending   |
+| 18 | 0-1 Binary Triangle | Pending   |
+| 19 | Continuous Number Pyramid | Pending   |
+| 20 | Hollow Square | Pending   |
 
 ### Day 21 - Day 30: Advanced Patterns
 
@@ -126,9 +126,9 @@ For every pattern, I will:
 | Section      | Completed |  Total |
 | ------------ |----------:| -----: |
 | Basic        |        10 |     10 |
-| Intermediate |         4 |     10 |
+| Intermediate |         6 |     10 |
 | Advanced     |         0 |     10 |
-| **Total**    |    **14** | **30** |
+| **Total**    |    **16** | **30** |
 
 ---
 
