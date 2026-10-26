@@ -54,7 +54,7 @@ This is a daily practice project where I solve one pattern every day and track m
 | 17 | Floyd's Triangle | Completed |
 | 18 | 0-1 Binary Triangle | Completed |
 | 19 | Continuous Number Pyramid | Completed |
-| 20 | Hollow Square | Pending   |
+| 20 | Hollow Square | Completed |
 
 ### Day 21 - Day 30: Advanced Patterns
 
@@ -126,9 +126,9 @@ For every pattern, I will:
 | Section      | Completed |  Total |
 | ------------ |----------:| -----: |
 | Basic        |        10 |     10 |
-| Intermediate |         9 |     10 |
+| Intermediate |        10 |     10 |
 | Advanced     |         0 |     10 |
-| **Total**    |    **19** | **30** |
+| **Total**    |    **20** | **30** |
 
 ---
 
