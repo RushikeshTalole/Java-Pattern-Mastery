@@ -58,18 +58,18 @@ This is a daily practice project where I solve one pattern every day and track m
 
 ### Day 21 - Day 30: Advanced Patterns
 
-| Day | Pattern                   | Status  |
-| --- | ------------------------- | ------- |
-| 21  | Hollow Right Triangle     | Pending |
-| 22  | Hollow Pyramid            | Pending |
-| 23  | Hollow Inverted Pyramid   | Pending |
-| 24  | Diamond                   | Pending |
-| 25  | Hollow Diamond            | Pending |
-| 26  | Butterfly                 | Pending |
-| 27  | Number Diamond            | Pending |
-| 28  | Palindrome Number Pyramid | Pending |
-| 29  | Pascal's Triangle         | Pending |
-| 30  | Mixed Pattern Challenge   | Pending |
+| Day | Pattern                   | Status    |
+| --- | ------------------------- |-----------|
+| 21  | Hollow Right Triangle     | Completed |
+| 22  | Hollow Pyramid            | Pending   |
+| 23  | Hollow Inverted Pyramid   | Pending   |
+| 24  | Diamond                   | Pending   |
+| 25  | Hollow Diamond            | Pending   |
+| 26  | Butterfly                 | Pending   |
+| 27  | Number Diamond            | Pending   |
+| 28  | Palindrome Number Pyramid | Pending   |
+| 29  | Pascal's Triangle         | Pending   |
+| 30  | Mixed Pattern Challenge   | Pending   |
 
 ---
 
@@ -127,8 +127,8 @@ For every pattern, I will:
 | ------------ |----------:| -----: |
 | Basic        |        10 |     10 |
 | Intermediate |        10 |     10 |
-| Advanced     |         0 |     10 |
-| **Total**    |    **20** | **30** |
+| Advanced     |         1 |     10 |
+| **Total**    |    **21** | **30** |
 
 ---
 
