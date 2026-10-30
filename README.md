@@ -63,7 +63,7 @@ This is a daily practice project where I solve one pattern every day and track m
 | 21  | Hollow Right Triangle     | Completed |
 | 22  | Hollow Pyramid            | Completed |
 | 23  | Hollow Inverted Pyramid   | Completed |
-| 24  | Diamond                   | Pending   |
+| 24  | Diamond                   | Completed |
 | 25  | Hollow Diamond            | Pending   |
 | 26  | Butterfly                 | Pending   |
 | 27  | Number Diamond            | Pending   |
@@ -127,8 +127,8 @@ For every pattern, I will:
 | ------------ |----------:| -----: |
 | Basic        |        10 |     10 |
 | Intermediate |        10 |     10 |
-| Advanced     |         3 |     10 |
-| **Total**    |    **23** | **30** |
+| Advanced     |         4 |     10 |
+| **Total**    |    **24** | **30** |
 
 ---
 
