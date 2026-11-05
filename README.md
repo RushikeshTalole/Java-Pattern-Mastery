@@ -68,7 +68,7 @@ This is a daily practice project where I solve one pattern every day and track m
 | 26  | Butterfly                 | Completed |
 | 27  | Number Diamond            | Completed |
 | 28  | Palindrome Number Pyramid | Completed |
-| 29  | Pascal's Triangle         | Pending   |
+| 29  | Pascal's Triangle         | Completed |
 | 30  | Mixed Pattern Challenge   | Pending   |
 
 ---
@@ -127,8 +127,8 @@ For every pattern, I will:
 | ------------ |----------:| -----: |
 | Basic        |        10 |     10 |
 | Intermediate |        10 |     10 |
-| Advanced     |         8 |     10 |
-| **Total**    |    **28** | **30** |
+| Advanced     |         9 |     10 |
+| **Total**    |    **29** | **30** |
 
 ---
 
